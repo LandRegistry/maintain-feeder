@@ -1,0 +1,11 @@
+# User-specific stuff:
+.idea/*
+
+# Locally generated python files
+*.pyc
+__pycache__/
+*.cache
+*.coverage
+.project
+.pydevproject
+test-output/

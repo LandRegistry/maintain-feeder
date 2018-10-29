@@ -1,0 +1,9 @@
+requests==2.20.0
+kombu==3.0.35
+manage.py==0.2.10
+SQLAlchemy==1.2.10
+GeoAlchemy2==0.4.0
+psycopg2==2.6.2
+shapely==1.6b2
+git+https://github.com/LandRegistry/feeder-utilities.git@v1.0.1
+git+https://github.com/LandRegistry/llc-schema-dto.git@v1.0.11

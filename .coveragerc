@@ -1,0 +1,5 @@
+[run]
+# Omit boiler plate code that's identical to the skeleton
+omit = maintain_feeder/dependencies/*
+	   maintain_feeder/extensions.py
+	   maintain_feeder/main.py
